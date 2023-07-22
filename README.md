@@ -12,7 +12,7 @@
    <p>To get the latest information please visit <a href="https://danielvaughan.com/">DanielVaughan.com</a></p>
   </td>
   <td style="min-width: 75px; max-width: 300px">
-   <image src="assets/compatcover.png" align="center" alt="Book cover: Programming Cloud Native Applications with Google Cloud" />
+   <image src="assets/compatcover.jpeg" align="center" alt="Book cover: Programming Cloud Native Applications with Google Cloud" />
   </td>
  </tr>
 </table>
