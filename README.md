@@ -1,4 +1,4 @@
-![Cloud Native Development with Google Cloud](assets/compatcover-small.jpeg "Cloud Native Development with Google Cloud")
+<img align="left" width="300" src="assets/compatcover-small.jpeg">
 
 Cloud native development gives you the power to rapidly build, secure, and scale software. But you still
 need to navigate many potential pitfalls along the way. Through practical examples, this book
