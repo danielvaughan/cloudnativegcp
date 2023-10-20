@@ -1,4 +1,4 @@
-<img align="left" width="300" src="assets/compatcover-small.jpeg">
+<img src="assets/compatcover-small.jpeg" alt="Book Cover" style="height: 300px; float: left; margin-right: 20px;">
 
 Cloud native development gives you the power to rapidly build, secure, and scale software. But you still
 need to navigate many potential pitfalls along the way. Through practical examples, this book
